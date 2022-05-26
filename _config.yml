@@ -161,8 +161,8 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
-  - jekyll-twitter-plugin
   - jemoji
+#  - jekyll-twitter-plugin
 
 # Sitemap settings
 defaults:
